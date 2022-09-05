@@ -1,0 +1,7 @@
+coloque etiquetas keywords
+inicio: electrodomesticos, tecnologia, hogar, TV, audio, celulares, cocinas, heladeras
+audioysmarttv: TV, audio, smarttv, Home Theater
+
+coloque descripcion en 
+inicio:Todo lo que tu hogar necesita nosotros lo tenemos
+audioysmarttv:Las mejores smart tv, al mejor precio
