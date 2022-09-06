@@ -8,25 +8,27 @@ body {
   flex-direction: column;
   min-height: 100vh; }
 
-header nav ul {
-  padding: 10px;
-  margin-left: 10px; }
+.subtitulo {
+  color: #e2e2e2;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center center; }
 
-main h1 {
+h1 {
   background-color: #00AB96;
   color: white;
-  padding: 10px;
-  margin-top: 30px; }
+  padding: 30px;
+  margin-top: 30px;
+  text-align: center center; }
 
-main .btn-card {
+.btn-card {
   background-color: #00AB96; }
 
-main .card-body {
-  margin-bottom: 30px;
-  box-shadow: #00AB96; }
+.btn-card {
+  background-color: #00AB96; }
 
 footer {
-  background-color: #f5f5f5;
+  background-color: #e2e2e2;
   padding: 1rem;
   text-align: center;
   margin-top: auto;

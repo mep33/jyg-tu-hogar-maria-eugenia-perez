@@ -2,7 +2,7 @@
     @extend %estiosubtitulo;
 }
 
-.subtitulo {
+.parrafo {
     @extend %estiosubtitulo;
     @include subtitulos (rgb(0, 0, 0))
 }
@@ -11,3 +11,4 @@
     background-color: $colorjyg;
 
 }
+
